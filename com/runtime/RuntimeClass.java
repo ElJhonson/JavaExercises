@@ -9,7 +9,7 @@ public class RuntimeClass {
 
 
             try {
-                //Sé comprueba sí tenemos windows por medio de las propiedades del sistema
+                //Sé comprueba sí tenemos windows por medio de las propiedades del sistema.
                 if (System.getProperty("os.name").startsWith("Windows")) {
                     //Si asi lo es, se crea el comando notepad, que abre el block de notas
                     process = runtime.exec("notepad");

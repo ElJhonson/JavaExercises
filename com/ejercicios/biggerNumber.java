@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class biggerNumber {
     public static void main(String[] args){
-        //Número mayor entre 3 numeros
+        //Número mayor entre 3 numeros.
 
         Scanner scanner = new Scanner(System.in);
 

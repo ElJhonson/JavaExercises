@@ -20,6 +20,7 @@ public class ArrayFill {
         }
 //---------------------------------------------------------------------
 
+
         //foreach (con multiplos de 3)
         int indice = 0;
         int contador = 0;

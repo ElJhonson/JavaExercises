@@ -20,7 +20,7 @@ public class PropertiesSystem {
         String lineSperator = System.getProperty("line.separator");
         System.out.println(lineSperator + "Hola");
 
-        //Por medio de esta clase puedes ver la lista con todas las propiedades de tu sistema
+        //Por medio de esta clase puedes ver la lista con todas las propiedades de tu sistema.
         Properties properties = System.getProperties();
         properties.list(System.out);
     }

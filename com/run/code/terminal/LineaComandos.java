@@ -2,6 +2,7 @@ package com.run.code.terminal;
 
 public class LineaComandos {
     public static void main(String[] args) {
+        //
         if (args.length == 0){
             System.out.println("Ingresa un nombre");
             System.exit(-1);

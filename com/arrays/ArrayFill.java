@@ -34,7 +34,7 @@ public class ArrayFill {
             System.out.println(j);
         }
 
-//-------------------------------------------------------------------
+//---------------------------------------------------------------------
         //while (con multiplos de 3)
         int i = 0;
         while (i<numeros.length){

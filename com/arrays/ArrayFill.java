@@ -18,7 +18,7 @@ public class ArrayFill {
         for (int h: numeros){
             System.out.println(h);
         }
-//-------------------------------------------------------------------
+//---------------------------------------------------------------------
 
         //foreach (con multiplos de 3)
         int indice = 0;

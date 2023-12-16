@@ -5,7 +5,7 @@ public class MathClass {
         //Valor absoluto
         int abs = Math.abs(-3);
         System.out.println(abs);
-        //Valor mayor
+        //Valor mayor.
         int max = Math.max(4, 6);
         System.out.println(max);
         //Valor menor

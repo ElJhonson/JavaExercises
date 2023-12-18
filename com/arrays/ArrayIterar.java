@@ -17,7 +17,7 @@ public class ArrayIterar {
             System.out.println(numeros[i]);
         }
 
-        // ----- Usando foreach -----
+        // ----- Usando foreach ------
         System.out.println();
         for (int numero :
                 numeros) {

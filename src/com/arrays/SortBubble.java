@@ -3,7 +3,7 @@ package com.arrays;
 public class SortBubble {
     //bdjhdj
     public static void main(String[] args) {
-        String[] names = {"Laura", "Lalo", "Luis", "Oscar", "Renata", "Alita", "Alejandra", "Nenata"};
+        String[] names = {"Laura", "Lalo", "Luis", "Oscar", "Renata", "Alita", "Alejandra"};
 
         int longitud = names.length;
 

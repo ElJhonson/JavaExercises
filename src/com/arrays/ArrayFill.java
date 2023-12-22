@@ -11,6 +11,7 @@ public class ArrayFill {
         //for (con multiples de 3)
         for (int i = 0; i < numeros.length; i++) {
             numeros[i] = i*3;
+
         }
 
         //Mostramos
@@ -43,7 +44,9 @@ public class ArrayFill {
             i++;
         }
 
-        //Mosteamos
+
+
+        //Mostramos
         System.out.println();
         for (int k: numeros){
             System.out.println(k);

@@ -1,7 +1,5 @@
 package com.arrays;
 
-import java.util.Arrays;
-
 public class ArraysSintaxis {
     public static void main(String[] args) {
         //Prueba

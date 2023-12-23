@@ -13,7 +13,7 @@ public class ArraySort {
         numeros[3] = 24;
         numeros[4] = 6;
 
-        //Ordena los items de tu array de forma ascendente.
+        //Ordena los items de tu array de forma ascendente..
         Arrays.sort(numeros);
 
         //busca la posición del elemento

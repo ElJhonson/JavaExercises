@@ -10,7 +10,7 @@ public class ArrayIterar {
         numeros[3] = 24;
         numeros[4] = 6;
 
-        // ----- Usando for -----
+        // ----- Usando for ------
         System.out.println();
         int longitud = numeros.length;
         for (int i = 0; i<longitud; i++){

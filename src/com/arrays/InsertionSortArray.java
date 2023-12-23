@@ -19,7 +19,6 @@ public class InsertionSortArray {
             names[pos] = aux;
         }
 
-
         for (String name : names) {
             System.out.println(name);
         }

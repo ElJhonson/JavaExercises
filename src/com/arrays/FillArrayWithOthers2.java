@@ -11,7 +11,7 @@ public class FillArrayWithOthers2 {
         for (int i = 0; i < a.length; i++) {
             a[i] = i + 1;
         }
-        //Fill array b
+        //Fill array b.
         for (int i = 0; i < b.length; i++) {
             b[i] = (i + 1) * 3;
         }

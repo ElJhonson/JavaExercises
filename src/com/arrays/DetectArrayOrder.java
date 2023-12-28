@@ -3,6 +3,7 @@ package com.arrays;
 import java.util.Scanner;
 
 public class DetectArrayOrder {
+    //Buscamos el orden que tiene nuestro array (ascendente, descendente o sin orden)
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int[] numbers = new int[5];

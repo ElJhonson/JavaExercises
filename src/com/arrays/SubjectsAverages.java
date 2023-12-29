@@ -2,7 +2,7 @@ package com.arrays;
 
 import java.util.Scanner;
 
-public class AverageSubjects {
+public class SubjectsAverages {
     /*In this project you'll type how many students you want to register and their grades in 3 different subject, after that you'll be able to choose between 4 options
      to know the different averages*/
     public static void main(String[] args) {

@@ -22,6 +22,7 @@ public class DeletedItemArray {
 
         int[] newArray = new int[numbers.length - 1];
 
+        //Copy array
         System.arraycopy(numbers, 0, newArray, 0, newArray.length);
 
         int j = 0;

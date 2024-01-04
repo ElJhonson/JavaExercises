@@ -4,7 +4,7 @@ public class Exercise2 {
 
     public static void main(String[] args) {
         //Numero mayor
-        int[] numbers = {14, 33, 15, 36, 18, 21, 3};
+        int[] numbers = {14, 33, 15, 36, 18, 21, 53};
 
         int test = 0;
 

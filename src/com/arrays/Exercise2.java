@@ -3,7 +3,7 @@ package com.arrays;
 public class Exercise2 {
 
     public static void main(String[] args) {
-        //Numero mayor
+        //Vamos a mostrar el Numero mayor del array
         int[] numbers = {14, 33, 15, 36, 18, 21, 53};
 
         int test = 0;

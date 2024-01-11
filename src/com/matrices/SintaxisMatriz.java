@@ -25,9 +25,11 @@ public class SintaxisMatriz {
 
         for (String[] fila : names) {
             for (String name : fila) {
-                System.out.println(name);
+                System.out.print(name + "\t");
             }
+            System.out.println();
         }
+
 
     }
 }

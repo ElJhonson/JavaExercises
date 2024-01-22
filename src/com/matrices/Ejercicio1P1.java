@@ -11,6 +11,7 @@ public class Ejercicio1P1 {
             }
         }
 
+
         for (int i = 0; i < equis.length; i++) {
             for (int j = 0; j < equis[i].length; j++) {
                 equis[i][i] = "X";
